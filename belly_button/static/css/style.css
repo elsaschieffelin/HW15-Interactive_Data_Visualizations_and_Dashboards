@@ -1,0 +1,29 @@
+/* styles */
+.name {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+    color: gray;
+}
+.title {
+    color: coral;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.descript {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: peachpuff;
+}
+.col-md-12 {
+    padding: 50px;
+}
+.card-title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate; 
+}
+#sample-metadata {
+    font-family: 'Times New Roman', Times, serif;
+    color: lightsalmon;   
+}
+
